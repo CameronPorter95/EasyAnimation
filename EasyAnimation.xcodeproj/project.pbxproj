@@ -81,7 +81,8 @@
 				403482591B8E01ED006C3C7C /* EasyAnimation.h */,
 				403482571B8E01ED006C3C7C /* Supporting Files */,
 			);
-			path = EasyAnimation;
+			name = EasyAnimation;
+			path = Sources/EasyAnimation;
 			sourceTree = "<group>";
 		};
 		403482571B8E01ED006C3C7C /* Supporting Files */ = {
@@ -187,6 +188,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 4034824A1B8E01ED006C3C7C;

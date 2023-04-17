@@ -17,6 +17,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Marin Todorov" => "touch-code-magazine@underplot.com" }
   s.source           = { :git => "https://github.com/icanzilb/EasyAnimation.git", :tag => s.version.to_s }
+  s.source_files     = 'Sources/EasyAnimation/*.swift'
   s.social_media_url = 'https://twitter.com/icanzilb'
 
   s.platform     = :ios, '9.0'
